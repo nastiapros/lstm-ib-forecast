@@ -14,7 +14,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/ib-research/lstm-ib-forecast.git
+git clone https://github.com/nastiapros/lstm-ib-forecast.git
 cd lstm-ib-forecast
 pip install -r requirements.txt
 python model.py          # обучение и прогноз
